@@ -324,10 +324,11 @@ header {
     display: grid;
     gap: 1rem;
     text-align: center;
+    
 }
 
     .news__details p {
-        font-size: 0.8rem;
+        font-size: 1.3rem;
         color: var(--text-light);
     }
 
